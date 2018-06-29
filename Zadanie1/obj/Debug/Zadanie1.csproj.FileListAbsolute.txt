@@ -1,0 +1,15 @@
+C:\Users\Kacper-PC\Desktop\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Users\Kacper-PC\Desktop\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache
+C:\Users\Kacper-PC\Desktop\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Users\Kacper-PC\Desktop\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Users\Kacper-PC\Desktop\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Users\Kacper-PC\Desktop\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+D:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+D:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+D:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+C:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb
+C:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Pliki studia\Studia\Studia 4 semestr\C#\Laborki\L4\Zadanie 1\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojResolveAssemblyReference.cache
